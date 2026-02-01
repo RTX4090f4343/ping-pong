@@ -46,5 +46,8 @@
 
 
 > 🏆 Найкреативніші проєкти отримують додаткові логіки!
+>https://opengameart.org/content/dull-explosion
+> https://opengameart.org/content/elevato
+> https://opengameart.org/content/knife-sharpening-slice-2
 
 Успіхів! Нехай твоя гра буде найкращою!
